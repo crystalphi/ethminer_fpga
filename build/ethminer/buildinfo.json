@@ -1,0 +1,10 @@
+{
+  "name": "ethminer",
+  "version": "0.19.0-50+commit.088a1d0b.dirty",
+  "is_prerelease": true,
+  "commit": "088a1d0bb6030cf16555406246d5d2a8aa8757f4",
+  "branch": "master",
+  "repo": "https://github.com/mkhaled87/ethminer_fpga.git",
+  "system_name": "linux",
+  "system_processor": "x86_64"
+}
